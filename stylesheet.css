@@ -1,0 +1,67 @@
+td{
+    border: 2px #000000 solid;
+}
+.semana{
+    border: 0px #000000 solid !important;
+    
+}
+.dias{
+    border-top: 2px #000000 solid !important;
+}
+table td {
+    text-align: center;
+  }
+.gr{
+    font-size: 25px;
+    padding: 10px;
+}
+.imp{
+    padding: 15px;
+    color: #fff;
+    text-shadow: 1px 1px 1px #568F23;
+    border: 1px solid #93CE37;
+    border-bottom: 3px solid #9ED929;
+    background-color: #9DD929;
+    background: -webkit-gradient( linear, left bottom, left top, color-stop(0.02, rgb(123,192,67)), color-stop(0.51, rgb(139,198,66)), color-stop(0.87, rgb(158,217,41)) );
+    background: -moz-linear-gradient( center bottom, rgb(123,192,67) 2%, rgb(139,198,66) 51%, rgb(158,217,41) 87% );
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius: 5px 5px 0px 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.imp2{
+    padding: 15px;
+    color: #fff;
+    text-shadow: 1px 1px 1px #23868f;
+    border: 1px solid #3529d9;
+    border-bottom: 3px solid #4929d9;
+    background-color: #2932d9;
+    background: -webkit-gradient( linear, left bottom, left top, color-stop(0.02, rgb(67, 186, 192)), color-stop(0.51, rgb(66, 156, 198)), color-stop(0.87, rgb(41, 129, 217)) );
+    background: -moz-linear-gradient( center bottom, rgb(2, 104, 72) 2%, rgb(66, 141, 198) 51%, rgb(73, 41, 217) 87% );
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius: 5px 5px 0px 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.imp3{
+    padding: 15px;
+    color: #fff;
+    text-shadow: 1px 1px 1px #6b238f;
+    font-size: 40px !important;
+    border: 1px solid #8429d9;
+    border-bottom: 3px solid #d929cd;
+    background-color: #b329d9;
+    background: -webkit-gradient( linear, left bottom, left top, color-stop(0.02, rgb(127, 67, 192)), color-stop(0.51, rgb(198, 66, 191)), color-stop(0.87, rgb(147, 41, 217)) );
+    background: -moz-linear-gradient( center bottom, rgb(2, 104, 72) 2%, rgb(66, 141, 198) 51%, rgb(73, 41, 217) 87% );
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius: 5px 5px 0px 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+@media (max-width: 800px) {
+body{
+    font-size: 25px;
+}}
